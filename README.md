@@ -1,1 +1,1 @@
-# My-Portifolio-Website :This is the Portifolio of Philasande Kwesi Luthuli.
+# My-Portfolio-Website :This is the Portfolio of Philasande Kwesi Luthuli.
